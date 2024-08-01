@@ -23,4 +23,10 @@
 
 ### ОТВЕТ:
 
+![](https://github.com/EvgeniyaBalanyuk/replication/blob/main/replication.png)
+
+![](https://github.com/EvgeniyaBalanyuk/replication/blob/main/replication_master.png)
+
+![](https://github.com/EvgeniyaBalanyuk/replication/blob/main/replication_slave.png)
+
 ---
